@@ -1,0 +1,17 @@
+           DOM JAVASCRIPT
+
+
+
+Para selecionar qualquer elemento no JavaScripy usamos o QuerySelector
+
+<div id='text'>Exemplo de texto </div>
+document.querySelector('#texto')
+
+Para alterar o texto de um elemento HTML usamos o innerText
+document.querySelector('#texto').innerText = "Carioca"
+
+para alterar o texto com alguma TAG do HTML
+usamos innerHTML
+
+document.querySelector('#texto').innerHTML = "<h1>Carioca<h1>"
+
