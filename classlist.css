@@ -1,0 +1,23 @@
+.classe1{
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border: gold;
+
+}
+
+.classe2 {
+
+    background-color: black;
+    color: orange;
+}
+
+.classe3 {
+
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    opacity:90%;
+    line-height: 100px;
+
+}
